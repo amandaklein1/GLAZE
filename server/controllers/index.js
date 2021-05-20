@@ -1,0 +1,1 @@
+exports.videoController = require('./videoController.js');
